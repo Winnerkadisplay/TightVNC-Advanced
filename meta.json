@@ -1,0 +1,23 @@
+{
+  "repo": "tightvnc-advanced",
+  "product": "TightVNC Advanced",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "remote-access",
+  "topics": [
+    "tightvnc",
+    "tightvnc-windows",
+    "remote-access-desktop",
+    "how-to-install-tightvnc",
+    "tightvnc-desktop-package",
+    "tightvnc-workspace",
+    "tightvnc-pro-tools",
+    "tightvnc-suite",
+    "zentool-tightvnc",
+    "tightvnc-tool-9"
+  ],
+  "site": "zentool.art"
+}
